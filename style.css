@@ -1,0 +1,228 @@
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+body {
+    background-color: #F1E5F5;
+}
+
+.firstparagraph {
+    color: blueviolet
+}
+
+.devinapoopoo {
+    color: crimson
+}
+
+#title {
+    text-align: center;
+
+}
+
+h1 {
+    margin-top: 20px;
+}
+
+.nav ul li a {
+    color: blueviolet;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 12px;
+    font-weight: bold;
+
+}
+
+.nav ul li {
+    color: white;
+    text-align: center;
+    font-size: 30;
+    display: inline;
+    list-style: none;
+}
+
+.nav h7 {
+    float: left
+}
+
+.nav h7 {
+    padding-top: 10px;
+    float: left
+}
+
+.nav ul {
+    float: right;
+}
+
+h6 {
+    font-size: x-large
+}
+
+h7 {
+    text-align: justify;
+    font-size: medium
+}
+
+
+
+h {
+    font-size: x-large
+}
+
+ul {
+    margin-left: 20px;
+}
+
+.First {
+    margin-left: 20px;
+    margin-right: 20px;
+    color:#630085;
+    margin-top: 15px;
+}
+
+h6 {
+    font-size: medium;
+}
+
+.Second {
+    font-size: x-large;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.Image1 {
+    margin-left: 20px;
+}
+
+.piss {
+    margin-left: 20px;
+}
+
+h {
+    margin-left: 20px;
+}
+
+
+.pictureandtext{
+    text-align: center;
+    width: 100%;
+}
+
+.picturediv {
+    width: 50%;
+}
+
+.textdiv {
+    width: 50%;
+}
+
+h1{
+    font-family:'Olivia';
+    font-size:40px;
+    color:rgb(104, 25, 58);
+    background-color: rgb(197, 159, 197);
+   
+}
+
+.homefirst 
+{ padding-left: 10px;}
+
+.aboutinfo{
+    color:#630085;
+    font-size: 16px;
+    font-family:Georgia;
+
+}
+
+.header2{
+    font-family:'Olivia';
+    font-size:40px;
+    color:rgb(104, 25, 58);
+    background-color: rgb(197, 159, 197);
+}
+.header3{
+    font-family:'Olivia';
+    font-size:40px;
+    color:rgb(104, 25, 58);
+    background-color: rgb(197, 159, 197);
+}
+.header4{
+    font-family:'Olivia';
+    font-size:40px;
+    color:rgb(104, 25, 58);
+    background-color: rgb(197, 159, 197);
+}
+.header5{
+    font-family:'Olivia';
+    font-size:30px;
+    color:rgb(104, 25, 58);
+    text-align: center;
+    background-color: rgb(197, 159, 197);
+}
+.topictwo{
+    background-color:rgb(197, 159, 197); 
+    font-family:'Olivia';
+    font-size:25px;
+    text-align:center;
+    color:rgb(104, 25, 58);
+}
+.first{
+    margin-top: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+    color:#630085;
+    
+}
+.list{
+    margin-left: 20px;
+    margin-right: 20px;
+    color:#630085;
+    margin-top: 15px;
+    font-weight: bold;   
+    width:100%
+}
+.contactinfo{
+    width:50%;
+    margin-left:350px;
+    font-family:'Olivia';
+    font-size:18px;
+    color:rgb(104, 25, 58);
+    font-weight: bold;
+    padding-right: 10px;
+    
+}
+  
+
+.contactinfo2{
+    width:50%;
+    margin-left:150px;
+    font-family:'Olivia';
+    font-size:25px;
+    color:rgb(104, 25, 58);
+}
+
+@media screen and (min-width:390px) {
+    .sisterdear {
+        color:blue;
+   margin-right:2px;
+   margin-left:13px;
+   white-space: nowrap;
+   font-size: 25px;
+   text-align: center;
+    }
+}
+@media screen and (min-width:390px) {
+    .homefirst {
+       padding-left: 1px;}
+       
+    
+    }
+
+    @media screen {
+        .homefirst {
+        padding-left: 15px;
+        padding-right: 15px;
+    padding-bottom: 18px;}
+    }
+
+
+
